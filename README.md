@@ -295,9 +295,6 @@ plt.show()
 
 ![Screenshot 2023-05-08 101931](https://user-images.githubusercontent.com/121300272/236748032-a02e3728-72a3-463e-ad0f-7a6ac8ea77b8.png)
 
-![Screenshot 2023-05-08 102015](https://user-images.githubusercontent.com/121300272/236748040-a3842a93-4a7c-4f1b-9596-adb4a9207877.png)
-
-
 ![Screenshot 2023-05-08 102037](https://user-images.githubusercontent.com/121300272/236748042-e7b3774e-ed16-4d31-ab1d-045d4f603b17.png)
 
 ![Screenshot 2023-05-08 102109](https://user-images.githubusercontent.com/121300272/236748049-de3f4ddd-f0f7-49b4-8bfa-2f5da8b210ba.png)
